@@ -1,0 +1,9 @@
+# python intermediate files
+__pycache__/
+*.py[cod]
+
+#  datasets
+datasets/
+
+# uv lock
+uv.lock
